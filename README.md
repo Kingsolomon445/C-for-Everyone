@@ -21,14 +21,14 @@ This is a repository that contains all the tasks done in the specialization (C f
 
 ### Structured Programming
 
-* **Week 1** [Enums, The C Preprocessor and assert code]
+* **Week 1** *Enums, The C Preprocessor and assert code*
 
-* **Week 2** [More Advanced ADTS]
+* **Week 2** [More Advanced ADTS](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_structural/week2)
 
-* **Week 3** [List code and Binary Trees]
+* **Week 3** [List code and Binary Trees](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_structural/week3)
 
-* **Week 4** [File I/O]
+* **Week 4** [File I/O](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_structural/week4)
 
-* **Week 5** [Intro to C++]
+* **Week 5** *Intro to C++*
 
 * **Week 6** *Final Exam (Quiz)*
