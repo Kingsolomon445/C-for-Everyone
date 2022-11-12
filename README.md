@@ -7,15 +7,15 @@ This is a repository that contains all the tasks done in the specialization (C f
 
 ### Programming Fundamentals
 
-* **Week 1** [Simple Input/Output]
+* **Week 1** [Simple Input/Output](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week1)
 
-* **Week 2** [Character Sets and Tokens]
+* **Week 2** [Character Sets and Tokens](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week2)
 
-* **Week 3** [Flow of Control and Simple Functions]
+* **Week 3** [Flow of Control and Simple Functions](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week3)
 
-* **Week 4** [Advanced Functions, Recursions, Array and Pointers]
+* **Week 4** [Advanced Functions, Recursions, Array and Pointers](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week4)
 
-* **Week 5** [Array and Pointers]
+* **Week 5** [Array and Pointers](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week5)
 
 * **Week 6** *Final Exam (Quiz)*
 
