@@ -13,7 +13,7 @@ This is a repository that contains all the tasks done in the specialization (C f
 
 * **Week 3** [Flow of Control and Simple Functions](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week3)
 
-* **Week 4** [Advanced Functions, Recursions, Array and Pointers](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week4)
+* **Week 4** *Advanced Functions, Recursions, Array and Pointers*
 
 * **Week 5** [Array and Pointers](https://github.com/Kingsolomon445/C-for-Everyone/tree/main/c_fundamental/week5)
 
